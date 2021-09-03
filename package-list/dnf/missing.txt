@@ -1,0 +1,41 @@
+# apps
+celluloid
+deskreen
+fontfinder
+helvum
+kdenlive/olive    // video editors
+obs
+opensnitch
+
+# cli
+anbox-halium
+chezmoi
+ctop
+curlie
+delta
+ffmpeg
+lazydocker
+pgcli    // broken package
+pueue
+scrcpy
+tuxi
+ugit
+v4l2loopback
+whitespacer    // https://github.com/gregfoletta/whitespacer
+yt-dlp
+
+# code
+intellij
+pycharm
+vscode
+
+# games
+openra
+sonic robo blast 2
+thrive    // spore-like
+widelands
+
+# razer
+razergenie
+openrazer
+
